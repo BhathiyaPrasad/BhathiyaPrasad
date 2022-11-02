@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BhathiyaPrasad
-- 👀 I’m interested in Backend
+- 👀 I’m interested in Programming
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Bhathiyaprasad217@gmail.com
 
 <!---
