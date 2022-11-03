@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BhathiyaPrasad
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React & Java
 - 📫 How to reach me Bhathiyaprasad217@gmail.com
 
 <!---
