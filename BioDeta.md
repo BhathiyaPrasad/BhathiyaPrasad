@@ -1,8 +1,9 @@
 ### Hi there 👋
 * 👂 My name is Bhathiya Prasad
-* 🌱 I’m currently learning Java & Java Scripts
+* 🌱 I’m currently learning Java & JavaScripts
+* 🤝 I’m looking to collaborate on Internship
 * 📫 How to reach me: Bhathiyaprasad217@gmail.com
-* ❤️ I love Coding
+* ❤️ I love Programming
 
 
 
