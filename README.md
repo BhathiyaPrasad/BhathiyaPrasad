@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @BhathiyaPrasad
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning React & Java
-- 📫 How to reach me Bhathiyaprasad217@gmail.com
+### Hi there 👋
+* 👂 My name is Bhathiya Prasad
+* 🌱 I’m currently learning Java & Java Scripts
+* 📫 How to reach me: Bhathiyaprasad217@gmail.com
+* ❤️ I love Coding
+
+
 
 <!---
 BhathiyaPrasad/BhathiyaPrasad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
