@@ -1,4 +1,4 @@
-### Hi there 
+### GOOD MORNING
 * 👂 My name is Bhathiya Prasad
 * 🌱 I’m currently learning Java & JavaScripts
 * 🤝 I’m looking to collaborate on Internship
