@@ -6,7 +6,7 @@
 ### I'm Bhathiya, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀 
   
 
-##### - 🔭I’m currently Student
+##### - 🔭I’m currently working in Interithm
   
 
 ##### - 🌱I’m currently learning JavaScript and React  
