@@ -2,19 +2,17 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
-
-### I'm Bhathiya, a  full-stack freelance developer 👨‍💻  
+  ## I'm Bhathiya, a  full-stack freelance developer 👨‍💻  
   
 
-##### - 🔭I’m currently working in Interithm
+#### - 🔭I’m currently working in Interithm
   
 
-##### - 🌱I’m currently learning JavaScript and React  
+#### - 🌱I’m currently learning JavaScript and React  
   
 
-##### - 😍Looking for collaboration with a team  
+#### - 😍Looking for collaboration with a team  
   
-
 ##### - ⚡Fun fact: I use tabs over spaces  
   
 
