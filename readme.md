@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Bhathiya, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+I'm Bhathiya, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀 
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/Bhathiyaprasad/github-profilinator)  
+- 🔭 I’m currently Student
   
 
 - 🌱 I’m currently learning JavaScript and React  
