@@ -3,7 +3,7 @@
 </div>  
   
 
-### I'm Bhathiya, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀 
+### I'm Bhathiya, a  full-stack freelance developer 👨‍💻  
   
 
 ##### - 🔭I’m currently working in Interithm
