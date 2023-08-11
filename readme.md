@@ -1,12 +1,12 @@
 ## I'm Bhathiya, a  full-stack freelance developer 👨‍💻  
   
-#### - 🔭I’m currently Student
+### - 🔭I’m currently Student
   
-#### - 🌱I’m currently learning JavaScript and React  
+### - 🌱I’m currently learning JavaScript and React  
   
-#### - 😍Looking for collaboration with a team  
+### - 😍Looking for collaboration with a team  
   
-#### - ⚡Fun fact: I use tabs over spaces  
+### - ⚡Fun fact: I use tabs over spaces  
   
 <br/>  
 
