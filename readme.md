@@ -1,6 +1,6 @@
 ## I'm Bhathiya, a  full-stack freelance developer 👨‍💻  
   
-#### - 🔭I’m currently working in Interithm Software Company
+#### - 🔭I’m currently Student
   
 #### - 🌱I’m currently learning JavaScript and React  
   
