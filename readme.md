@@ -4,7 +4,7 @@
   
 #### - 🌱I’m currently learning JavaScript and React  
   
-### - 😍Looking for collaboration with a team  
+#### - 😍Looking for collaboration with a team  
   
 ### - ⚡Fun fact: I use tabs over spaces  
   
