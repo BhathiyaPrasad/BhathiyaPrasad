@@ -1,4 +1,4 @@
-## I'm Bhathiya, a full-stack developer 👨‍💻  
+## I'm Bhathiya, a Full-Stack Developer 👨‍💻  
   
 ### - 🔭I’m currently Student
   
