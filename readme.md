@@ -6,7 +6,7 @@
   
 #### - 😍Looking for collaboration with a team  
   
-### - ⚡Fun fact: I use tabs over spaces  
+#### - ⚡Fun fact: I use tabs over spaces  
   
 <br/>  
 
