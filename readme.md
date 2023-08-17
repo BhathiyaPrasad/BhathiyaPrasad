@@ -1,6 +1,6 @@
 ## I'm Bhathiya, a Full-Stack Developer 👨‍💻  
   
-#### - 🔭I’m currently a Student
+#### - 🔭I’m currently a Student.
   
 #### - 🌱I’m currently learning JavaScript and React  
   
