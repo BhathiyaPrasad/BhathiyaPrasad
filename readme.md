@@ -1,4 +1,4 @@
-## I'm Bhathiya Prasad, a Full-Stack Developer 👨‍💻  
+## I'm Bhathiya Prasad, a Full-Stack Developer. 👨‍💻  
   
 #### - 🔭I’m currently a Student
   
