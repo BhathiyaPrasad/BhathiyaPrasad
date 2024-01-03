@@ -32,7 +32,7 @@
 </div>
 
 </td>
-<td></td>
+<td width=50%></td>
 <td valign="top" width="50%">
 
 
