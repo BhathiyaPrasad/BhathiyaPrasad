@@ -12,7 +12,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="100%">
+<table><tr><td valign="top" width="50%">
 
 
 
@@ -33,7 +33,7 @@
 
 </td>
 <td></td>
-<td valign="top" width="100%">
+<td valign="top" width="50%">
 
 
 
