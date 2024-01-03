@@ -2,7 +2,7 @@
   
 #### - 🔭I’m currently a Student
   
-#### - 🌱I’m currently learning React,JavaScript And Prompt Engineering  
+#### - 🌱I’m currently learning  JavaScript,React And Prompt Engineering  
   
 #### - 😍Looking for collaboration with a team  
   
