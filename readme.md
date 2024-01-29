@@ -2,7 +2,7 @@
   
 ####  🔭I’m currently a Undergraduate Student in University Of Colombo 
   
-####  🌱I’m currently learning  JavaScript And React 
+####  🌱I’m currently learning  JavaScript And React.
   
 ####  😍Looking for collaboration with a team  
   
