@@ -1,8 +1,8 @@
-## I'm Bhathiya Prasad, a Trainee Full-Stack Developer 👨‍💻  
+## I'm Bhathiya Prasad, a Trainee Full-Stack Developer 👨‍💻 
   
 ####  🔭I’m currently a Undergraduate Student in University Of Colombo 
   
-####  🌱I’m currently learning  JavaScript,React And Prompt Engineering  
+####  🌱I’m currently learning  JavaScript And React 
   
 ####  😍Looking for collaboration with a team  
   
