@@ -1,15 +1,3 @@
-## I'm Trainee Full-Stack Developer 👨‍💻 
-  
-####  🔭I’m currently a Undergraduate Student in University Of Colombo 
-  
-####  🌱I’m currently learning  TypeScript And React.js
-  
-####  😍Looking for collaboration with a team  
-  
-####  ⚡Fun fact: I use tabs over spaces  
-  
-<br/>  
-
 
 ## Skills  
 
