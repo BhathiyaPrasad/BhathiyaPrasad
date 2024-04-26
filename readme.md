@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Bhathiyaprasad/Bhathiyaprasad/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
