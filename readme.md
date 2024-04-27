@@ -56,9 +56,7 @@
 ###
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bhathiyaprasad&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true&order=2" height="140" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Bhathiyaprasad&locale=en&mode=daily&theme=gruvbox&hide_border=true&border_radius=5&order=3" height="140" alt="streak graph"  />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhathiyaprasad&radius=16&theme=gruvbox&area=true&order=5&hide_border=true&hide_title=true" height="242" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhathiyaprasad&radius=16&theme=gruvbox&area=true&order=5&hide_border=true&hide_title=true" height="242" alt="activity-graph graph"  />
 </div>
 
 ###
