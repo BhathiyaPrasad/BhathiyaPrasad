@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bhathiyaprasad&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true&order=2" height="140" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Bhathiyaprasad&locale=en&mode=daily&theme=gruvbox&hide_border=true&border_radius=5&order=3" height="140" alt="streak graph"  />
+</div>
+
 ###
 
 <div align="center">
