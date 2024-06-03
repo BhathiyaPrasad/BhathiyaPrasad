@@ -63,8 +63,8 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="65" alt="yarn logo"  />
   <img width="20" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg](https://ngrok.com/static/img/ngrok-black-logo.svg
-)" height="65" alt="yarn logo"  />
+  <img src="https://ngrok.com/static/img/ngrok-black-logo.svg" height="65" alt="yarn logo"  />
+  <img width="20" />
 </div>
 
 
