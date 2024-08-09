@@ -1,3 +1,10 @@
+![](https://github-readme-streak-stats.herokuapp.com/?user=bhathiyaprasad&theme=highcontrast&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhathiyaprasad&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=bhathiyaprasad&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)
+
+
+
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhathiyaPrasad&radius=16&theme=gruvbox&area=true&order=5&hide_border=true&hide_title=true" height="242" alt="activity-graph graph"  />
 </div>
