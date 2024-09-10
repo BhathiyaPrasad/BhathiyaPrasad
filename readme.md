@@ -55,9 +55,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="55" alt="nextjs logo"  />
   <img width="20" />
   <img src="https://daisyui.com/favicon.ico" height="55" alt="daisyui logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="55" alt="nginx logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/amazonaws.svg" height="55" alt="aws logo"  />
+  <img width="20" />
 </div>
-
-
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
