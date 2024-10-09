@@ -1,4 +1,6 @@
-
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=Full%20Stack%20Developer%20;Developer%20of%20bp%20translate%20library;Currently%20Under%20Development,%20;2+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
+</p>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhathiyaPrasad&radius=16&theme=gruvbox&area=true&order=5&hide_border=true&hide_title=true" height="242" alt="activity-graph graph"  />
 </div>
