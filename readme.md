@@ -63,18 +63,10 @@
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/amazonaws.svg" height="55" alt="aws logo"  />
   <img width="20" />
 </div>
+
 ## 🌟 Featured Projects
 
 1. **bp translate library**: A powerful translation library for seamless multilingual support in applications.
-   - Key features: [Easily install and can used to setup translation component powered by google translate]
-   - Technologies used: [React , Js , Ts]
-   - [Link to repository or npm package]
-
-## 🌱 Currently Learning
-
-- Advanced AWS services and cloud architecture
-- Microservices design patterns and best practices
-- [Add any other technologies or concepts you're currently focusing on]
 
 ## 📫 Let's Connect!
 
