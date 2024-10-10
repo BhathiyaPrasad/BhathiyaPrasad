@@ -5,7 +5,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhathiyaPrasad&radius=16&theme=gruvbox&area=true&order=5&hide_border=true&hide_title=false&title=Contribution%20Graph" height="250" alt="activity-graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhathiyaPrasad&radius=16&theme=gruvbox&area=true&order=5&hide_border=true&hide_title=false&title=Contribution%20Graph" height="280" alt="activity-graph"  />
 </div>
 
 <div align="center">
