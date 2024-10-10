@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Full%20Stack%20Developer;Creator%20of%20bp%20translate%20library;Always%20learning%20and%20growing;2+%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=22" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Full%20Stack%20Developer;Developer%20of%20BP%20Translate%20Library;Always%20Learning%20And%20Growing;2+%20Years%20Of%20Coding%20Experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=22" />
 </p>
 
 ## 📊 GitHub Stats
@@ -63,10 +63,6 @@
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/amazonaws.svg" height="55" alt="aws logo"  />
   <img width="20" />
 </div>
-
-## 🌟 Featured Projects
-
-1. **bp translate library**: A powerful translation library for seamless multilingual support in applications.
 
 ## 📫 Let's Connect!
 
