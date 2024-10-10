@@ -64,15 +64,6 @@
   <img width="20" />
 </div>
 
-## 📫 Let's Connect!
-
-<div align="center">
-  <a href="https://linkedin.com/in/yourusername" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://yourblog.com" target="_blank"><img src="https://img.shields.io/badge/Blog-Read%20More-green?style=flat-square&logo=wordpress&logoColor=white" alt="Personal Blog" /></a>
-</div>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
