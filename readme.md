@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.demolab.com/?lines=Full%20Stack%20Developer;Developer%20of%20BP%20Translate%20Library;Always%20Learning%20And%20Growing;2+%20Years%20Of%20Coding%20Experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=22" />
 </p>
 
-## 📊 GitHub Stats
+## 
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhathiyaPrasad&radius=16&theme=gruvbox&area=true&order=5&hide_border=true&hide_title=false&title=Contribution%20Graph" height="240" alt="activity-graph"  />
@@ -13,7 +13,7 @@
   <img src="https://streak-stats.demolab.com?user=BhathiyaPrasad&locale=en&mode=daily&theme=gruvbox&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-## 🛠️ Technologies & Tools
+## 
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo" />
