@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Full%20Stack%20Developer;Developer%20of%20BP%20Translate%20Library;Founder%20of%20bp-color-library;Always%20Learning%20And%20Growing;Falling%20in%20love%20with%20NGINX&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=22" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Full%20Stack%20Developer;Developer%20of%20BP%20Translate%20Library;Developer%20of%20bp-color-library;Always%20Learning%20And%20Growing;Falling%20in%20love%20with%20NGINX&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=22" /> </p>
 
 ## 
 
