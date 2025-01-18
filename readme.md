@@ -18,10 +18,10 @@
 
 ## 
 <div align="center">
-  <a href="link-to-bp-color">
+  <a href="https://github.com/BhathiyaPrasad/bp-color-library">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhathiyaPrasad&repo=bp-color&theme=gruvbox&hide_border=true&card_width=320" width="335" />
   </a>
-  <a href="link-to-bp-translate">
+  <a href="https://github.com/BhathiyaPrasad/bp-translate-react">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhathiyaPrasad&repo=bp-translate-react&theme=gruvbox&hide_border=true&card_width=320" width="335" />
   </a>
 </div>
