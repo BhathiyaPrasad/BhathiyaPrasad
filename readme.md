@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,%20it's%20Bhathiya%20Prasad;Full%20Stack%20Developer;Developer%20of%20BP%20translate%20library;Developer%20of%20bp-color-library;Always%20learning%20and%20growing;Falling%20in%20love%20with%20NGINX&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,%20it's%20Bhathiya%20Prasad%20😎;Full%20Stack%20Software%20Engineer%20💻;Junior%20DevOps%20Engineer%20🔧;Developer%20of%20BP%20translate%20library%20📚;Developer%20of%20bp-color-library%20🎨;Always%20learning%20and%20growing%20📚🌱;Falling%20in%20love%20with%20NGINX%20❤️⚡&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=22" />
 </p>
+
+
 
 
 ## 
