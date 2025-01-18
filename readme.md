@@ -15,14 +15,7 @@
  <img src="https://streak-stats.demolab.com?user=BhathiyaPrasad&locale=en&mode=daily&theme=gruvbox&hide_border=true&border_radius=5&order=3&cache_seconds=1800" height="150" alt="streak graph" />
 </div>
 
-<div align="center">
-  <a href="link-to-bp-color">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhathiyaPrasad&repo=bp-color&theme=gruvbox&hide_border=true&card_width=320" width="335" />
-  </a>
-  <a href="link-to-bp-translate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhathiyaPrasad&repo=bp-translate-react&theme=gruvbox&hide_border=true&card_width=320" width="335" />
-  </a>
-</div>
+
 
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
@@ -58,6 +51,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" height="45" />
           
               
+</div>
+<div align="center">
+  <a href="link-to-bp-color">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhathiyaPrasad&repo=bp-color&theme=gruvbox&hide_border=true&card_width=320" width="335" />
+  </a>
+  <a href="link-to-bp-translate">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhathiyaPrasad&repo=bp-translate-react&theme=gruvbox&hide_border=true&card_width=320" width="335" />
+  </a>
 </div>
 
 <p align="center">
