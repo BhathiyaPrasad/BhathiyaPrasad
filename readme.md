@@ -14,8 +14,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BhathiyaPrasad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gruvbox&hide_border=true&order=2&cache_seconds=1800" height="150" alt="languages graph" />
  <img src="https://streak-stats.demolab.com?user=BhathiyaPrasad&locale=en&mode=daily&theme=gruvbox&hide_border=true&border_radius=5&order=3&cache_seconds=1800" height="150" alt="streak graph" />
 </div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+<div align="center">
+  <a href="link-to-bp-color">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhathiyaPrasad&repo=bp-color&theme=gruvbox&hide_border=true&card_width=320" width="335" />
+  </a>
+  <a href="link-to-bp-translate">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhathiyaPrasad&repo=bp-translate-react&theme=gruvbox&hide_border=true&card_width=320" width="335" />
+  </a>
+</div>
 
-## 
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo" />
