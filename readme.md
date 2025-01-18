@@ -21,10 +21,10 @@
 ## 
 <div align="center">
   <a href="https://github.com/BhathiyaPrasad/bp-color-library">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhathiyaPrasad&repo=bp-color&theme=gruvbox&hide_border=true&card_width=320" width="335" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhathiyaPrasad&repo=bp-color&theme=gruvbox&hide_border=true&card_width=320"  />
   </a>
   <a href="https://github.com/BhathiyaPrasad/bp-translate-react-library">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhathiyaPrasad&repo=bp-translate-react-library&theme=gruvbox&hide_border=true&card_width=320" width="335" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhathiyaPrasad&repo=bp-translate-react-library&theme=gruvbox&hide_border=true&card_width=320"  />
   </a>
 </div>
 
