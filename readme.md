@@ -15,7 +15,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BhathiyaPrasad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gruvbox&hide_border=true&order=2&cache_seconds=1800" height="150" alt="languages graph" />
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=BhathiyaPrasad&theme=gruvbox&hide_border=true&border_radius=5&order=3&cache_seconds=1800" height="150" alt="streak graph" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=BhathiyaPrasad&theme=gruvbox&hide_border=true" height="150" alt="streak graph" />
 </div>
 
 ## 
@@ -26,6 +26,7 @@
   <a href="https://github.com/BhathiyaPrasad/bp-translate-react-library">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhathiyaPrasad&repo=bp-translate-react-library&theme=gruvbox&hide_border=true&card_width=320"  />
   </a>
+<a><img src="https://github-readme-streak-stats.herokuapp.com/?user=bhathiyaprasad&theme=gruvbox&hide_border=true"/></a>
 </div>
 
 ##  
