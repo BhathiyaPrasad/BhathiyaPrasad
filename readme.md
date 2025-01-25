@@ -15,7 +15,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BhathiyaPrasad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gruvbox&hide_border=true&order=2&cache_seconds=1800" height="150" alt="languages graph" />
- <img src="https://streak-stats.demolab.com?user=BhathiyaPrasad&locale=en&mode=daily&theme=gruvbox&hide_border=true&border_radius=5&order=3&cache_seconds=1800" height="150" alt="streak graph" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=BhathiyaPrasad&theme=gruvbox&hide_border=true&border_radius=5&order=3&cache_seconds=1800" height="150" alt="streak graph" />
 </div>
 
 ## 
