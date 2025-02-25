@@ -15,15 +15,15 @@
 <img  src="https://github-readme-stats-eight-theta.vercel.app/api?username=bhathiyaprasad&theme=gruvbox&show_icons=true&hide_border=true&count_private=true&card_width=250&include_all_commits=true&count_private=true" height="150"  />
 </div>
 
-## 
-<div align="center">
-  <a href="https://github.com/BhathiyaPrasad/bp-color-library">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhathiyaPrasad&repo=bp-color&theme=gruvbox&hide_border=true&card_width=320"  />
-  </a>
-  <a href="https://github.com/BhathiyaPrasad/react-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhathiyaPrasad&repo=react-portfolio&theme=gruvbox&hide_border=true&card_width=320" height="150"  />
-  </a>
-</div>
+ 
+
+<!--   <a href="https://github.com/BhathiyaPrasad/bp-color-library"> -->
+<!--     <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhathiyaPrasad&repo=bp-color&theme=gruvbox&hide_border=true&card_width=320"  />
+  </a> -->
+<!--   <a href="https://github.com/BhathiyaPrasad/react-portfolio"> -->
+<!--     <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhathiyaPrasad&repo=react-portfolio&theme=gruvbox&hide_border=true&card_width=320" height="150"  /> -->
+<!--   </a> -->
+<!-- </div> -->
 
 ##  
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
