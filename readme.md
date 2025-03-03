@@ -11,8 +11,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BhathiyaPrasad&locale=en&hide_title=false&layout=compact&card_width=480&langs_count=12&theme=gruvbox&hide_border=true&order=2&cache_seconds=1800&card_width=320"" height="190" alt="languages graph" />
-<img  src="https://github-readme-stats-eight-theta.vercel.app/api?username=bhathiyaprasad&theme=gruvbox&show_icons=true&hide_border=true&count_private=true&card_width=200&include_all_commits=true&count_private=true" height="190"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BhathiyaPrasad&locale=en&hide_title=false&layout=compact&card_width=480&langs_count=12&theme=gruvbox&hide_border=true&order=2&cache_seconds=1800&card_width=320"" height="195" alt="languages graph" />
+<img  src="https://github-readme-stats-eight-theta.vercel.app/api?username=bhathiyaprasad&theme=gruvbox&show_icons=true&hide_border=true&count_private=true&card_width=200&include_all_commits=true&count_private=true" height="195"  />
 </div>
 
  
