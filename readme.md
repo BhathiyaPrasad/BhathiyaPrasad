@@ -17,13 +17,6 @@
 
  
 
-<!--   <a href="https://github.com/BhathiyaPrasad/bp-color-library"> -->
-<!--     <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhathiyaPrasad&repo=bp-color&theme=gruvbox&hide_border=true&card_width=320"  />
-  </a> -->
-<!--   <a href="https://github.com/BhathiyaPrasad/react-portfolio"> -->
-<!--     <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhathiyaPrasad&repo=react-portfolio&theme=gruvbox&hide_border=true&card_width=320" height="150"  /> -->
-<!--   </a> -->
-<!-- </div> -->
 
 ##  
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
