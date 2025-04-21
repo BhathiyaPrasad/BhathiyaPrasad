@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,%20it's%20Bhathiya%20Prasad%20😎;Full%20Stack%20Software%20Engineer%20💻;Junior%20DevOps%20Engineer%20🔧;Developer%20of%20BP%20translate%20library%20📚;Developer%20of%20BP%20color%20library%20🎨;Always%20learning%20and%20growing%20📚🌱;Falling%20in%20love%20with%20Langchain%20⚡&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=22" />
-</p>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hello,+it's+Bhathiya+Prasad+😎;Full+Stack+Software+Engineer+💻;Junior+DevOps+Engineer+🔧;Developer+of+BP+translate+library+📚;Developer+of+BP+color+library+🎨;Always+learning+and+growing+📚🌱;Falling+in+love+with+Langchain+⚡&font=Fira+Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=22)
 
 
 ## 
