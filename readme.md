@@ -1,5 +1,5 @@
 
-![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hello,+it's+Bhathiya+Prasad+😎;Full+Stack+Software+Engineer+💻;Junior+DevOps+Engineer+🔧;Developer+of+BP+translate+library+📚;Developer+of+BP+color+library+🎨;Always+learning+and+growing+📚🌱;Falling+in+love+with+Langchain+⚡&font=Fira+Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=22)
+![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hello,+it's+Bhathiya+Prasad+😎;Full+Stack+Software+Engineer+💻;Junior+DevOps+Engineer+🔧;Developer+of+BP+Translate+library+📚;Developer+of+BP+color+library+🎨;Always+learning+and+growing+📚🌱;Falling+in+love+with+Langchain+⚡&font=Fira+Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=22)
 
 
 ## 
