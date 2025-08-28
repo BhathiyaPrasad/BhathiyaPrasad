@@ -15,12 +15,11 @@
       </td>
       <td>
         <a href="https://github.com/bhathiyaprasad/react-portfolio">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhathiyaprasad&repo=react-portfolio&theme=gruvbox&show_owner=true" width="420"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhathiyaprasad&repo=bp-translate-react-library&theme=gruvbox&show_owner=true" width="420"/>
         </a>
       </td>
     </tr>
   </table>
-
 </div>
 
 
