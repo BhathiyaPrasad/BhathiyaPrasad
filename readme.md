@@ -3,8 +3,9 @@
 
 
 ## 
-
-
+<div>
+<img src="https://raw.githubusercontent.com/bhathiyaprasad/bhathiyaprasad/output/snake.svg" alt="Snake animation" />
+</div>
 <!--   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhathiyaPrasad&radius=16&theme=gruvbox&area=true&order=5&hide_border=true&hide_title=false&title=Contribution%20Graph" height="310" alt="activity-graph"  />
 </div> -->
 
