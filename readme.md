@@ -20,7 +20,6 @@
 
 ### 🌟 Open Source NPM Package: [bp-color-library](https://www.npmjs.com/package/bp-color-library)  
 ![npm](https://img.shields.io/npm/dt/bp-color-library?color=blue&label=Downloads)  
-> Retrieve color names from HEX codes. weekly 195+  downloads and growing! 🎨
 
 ---
 
