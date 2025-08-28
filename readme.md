@@ -28,17 +28,18 @@
 <!--   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhathiyaPrasad&radius=16&theme=gruvbox&area=true&order=5&hide_border=true&hide_title=false&title=Contribution%20Graph" height="310" alt="activity-graph"  />
 </div> -->
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
 
-  <div style="display: inline-block; margin-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BhathiyaPrasad&locale=en&hide_title=false&layout=compact&card_width=480&langs_count=10&theme=gruvbox&hide_border=true&order=2&cache_seconds=1800" height="185" alt="languages graph" />
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BhathiyaPrasad&locale=en&hide_title=false&layout=compact&card_width=480&langs_count=10&theme=gruvbox&hide_border=true&order=2&cache_seconds=1800" height="185" width="300" alt="languages graph" />
   </div>
 
-  <div style="display: inline-block; margin-left: 10px;">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=bhathiyaprasad&theme=gruvbox&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="185" />
+  <div>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=bhathiyaprasad&theme=gruvbox&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="185" width="300"  alt="github stats" />
   </div>
 
 </div>
+
 
 
 
