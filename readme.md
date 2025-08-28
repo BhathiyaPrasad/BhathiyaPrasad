@@ -1,5 +1,7 @@
+<div align="center">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hello,+it's+Bhathiya+Prasad+😎;Full+Stack+Software+Engineer+💻;Junior+DevOps+Engineer+🔧;Developer+of+BP+Translate+library+📚;Developer+of+BP+color+library+🎨;Always+learning+and+growing+📚🌱;Falling+in+love+with+Langchain+⚡&font=Fira+Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=22)
+</div>
 
 
 ---
@@ -34,6 +36,7 @@
 
 
 ---
+
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript logo" />
