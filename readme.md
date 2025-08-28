@@ -71,7 +71,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" height="45" />            
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="45" />        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" height="45" />
-          
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/odoo.svg" height="45" />
 
 
 <p align="center">
