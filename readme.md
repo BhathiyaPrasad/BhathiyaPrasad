@@ -6,26 +6,21 @@
 
 <div align="center">
 
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/bhathiyaprasad/bp-color-library">
+ 
+  <a href="https://github.com/bhathiyaprasad/bp-color-library">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhathiyaprasad&repo=bp-color-library&theme=gruvbox&show_owner=true" width="420"/>
         </a>
-      </td>
-      <td>
-        <a href="https://github.com/bhathiyaprasad/react-portfolio">
+      
+  <a href="https://github.com/bhathiyaprasad/react-portfolio">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhathiyaprasad&repo=bp-translate-react-library&theme=gruvbox&show_owner=true" width="420"/>
         </a>
-      </td>
-    </tr>
-  </table>
+      
 </div>
 
 
 ### 🌟 Open Source NPM Package: [bp-color-library](https://www.npmjs.com/package/bp-color-library)  
 ![npm](https://img.shields.io/npm/dt/bp-color-library?color=blue&label=Downloads)  
-> Retrieve color names from HEX codes. 195+ downloads and growing! 🎨
+> Retrieve color names from HEX codes. weekly 195+  downloads and growing! 🎨
 
 ---
 
