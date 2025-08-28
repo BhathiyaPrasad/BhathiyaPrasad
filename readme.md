@@ -13,7 +13,7 @@
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhathiyaprasad&repo=bp-color-library&theme=gruvbox&show_owner=true" width="420"/>
         </a>
       
-  <a href="https://github.com/bhathiyaprasad/react-portfolio">
+  <a href="https://github.com/bhathiyaprasad/bp-translate-react-library">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhathiyaprasad&repo=bp-translate-react-library&theme=gruvbox&show_owner=true" width="420"/>
         </a>
       
