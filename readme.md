@@ -2,14 +2,34 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hello,+it's+Bhathiya+Prasad+😎;Full+Stack+Software+Engineer+💻;Junior+DevOps+Engineer+🔧;Developer+of+BP+Translate+library+📚;Developer+of+BP+color+library+🎨;Always+learning+and+growing+📚🌱;Falling+in+love+with+Langchain+⚡&font=Fira+Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=22)
 
 
-## 
-<div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+---
+
+<div align="center">
+
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/bhathiyaprasad/bp-color-library">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhathiyaprasad&repo=bp-color-library&theme=gruvbox&show_owner=true" width="420"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/bhathiyaprasad/react-portfolio">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhathiyaprasad&repo=react-portfolio&theme=gruvbox&show_owner=true" width="420"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+
 </div>
+
+
+### 🌟 Open Source NPM Package: [bp-color-library](https://www.npmjs.com/package/bp-color-library)  
+![npm](https://img.shields.io/npm/dt/bp-color-library?color=blue&label=Downloads)  
+> Retrieve color names from HEX codes. 195+ downloads and growing! 🎨
+
+---
+
 <!--   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhathiyaPrasad&radius=16&theme=gruvbox&area=true&order=5&hide_border=true&hide_title=false&title=Contribution%20Graph" height="310" alt="activity-graph"  />
 </div> -->
 
@@ -20,7 +40,7 @@
 
 
 
-##  
+---
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript logo" />
