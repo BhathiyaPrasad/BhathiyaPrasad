@@ -28,18 +28,14 @@
 <!--   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhathiyaPrasad&radius=16&theme=gruvbox&area=true&order=5&hide_border=true&hide_title=false&title=Contribution%20Graph" height="310" alt="activity-graph"  />
 </div> -->
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-
-  <!-- Card 1 -->
-  <div style="flex: 0 0 45%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BhathiyaPrasad&locale=en&hide_title=false&layout=compact&card_width=480&langs_count=10&theme=gruvbox&hide_border=true&order=2&cache_seconds=1800" height="185" alt="languages graph" />
-  </div>
-
-  <!-- Card 2 -->
-  <div style="flex: 0 0 45%;">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=bhathiyaprasad&theme=gruvbox&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="185" alt="github stats" />
-  </div>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BhathiyaPrasad&locale=en&hide_title=false&layout=compact&card_width=480&langs_count=8&theme=gruvbox&hide_border=true&order=2&cache_seconds=1800&card_width=320"" height="185" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BhathiyaPrasad&locale=en&hide_title=false&layout=compact&card_width=480&langs_count=9&theme=gruvbox&hide_border=true&order=2&cache_seconds=1800&card_width=320"" height="185" alt="languages graph" />
+<img  src="https://github-readme-stats-eight-theta.vercel.app/api?username=bhathiyaprasad&theme=gruvbox&show_icons=true&hide_border=true&count_private=true&card_width=200&include_all_commits=true&count_private=true" height="185"  />
+</div><div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BhathiyaPrasad&locale=en&hide_title=false&layout=compact&card_width=480&langs_count=8&theme=gruvbox&hide_border=true&order=2&cache_seconds=1800&card_width=320"" height="185" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BhathiyaPrasad&locale=en&hide_title=false&layout=compact&card_width=480&langs_count=9&theme=gruvbox&hide_border=true&order=2&cache_seconds=1800&card_width=320"" height="185" alt="languages graph" />
+<img  src="https://github-readme-stats-eight-theta.vercel.app/api?username=bhathiyaprasad&theme=gruvbox&show_icons=true&hide_border=true&count_private=true&card_width=200&include_all_commits=true&count_private=true" height="185"  />
 </div>
 
 
