@@ -4,9 +4,9 @@
 
 ## 
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhathiyaPrasad&radius=16&theme=gruvbox&area=true&order=5&hide_border=true&hide_title=false&title=Contribution%20Graph" height="310" alt="activity-graph"  />
-</div>
+
+<!--   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhathiyaPrasad&radius=16&theme=gruvbox&area=true&order=5&hide_border=true&hide_title=false&title=Contribution%20Graph" height="310" alt="activity-graph"  />
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BhathiyaPrasad&locale=en&hide_title=false&layout=compact&card_width=480&langs_count=12&theme=gruvbox&hide_border=true&order=2&cache_seconds=1800&card_width=320"" height="185" alt="languages graph" />
