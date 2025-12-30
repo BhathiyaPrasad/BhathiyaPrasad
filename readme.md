@@ -6,7 +6,6 @@
 ---
 
 <div align="center">
-
  
   <a href="https://github.com/bhathiyaprasad/bp-color-library">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhathiyaprasad&repo=bp-color-library&theme=gruvbox&show_owner=true" width="420"/>
