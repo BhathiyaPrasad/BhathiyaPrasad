@@ -5,7 +5,7 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center">
  
   <a href="https://github.com/bhathiyaprasad/bp-color-library">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhathiyaprasad&repo=bp-color-library&theme=gruvbox&show_owner=true" width="420"/>
@@ -15,7 +15,7 @@
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhathiyaprasad&repo=bp-translate-react-library&theme=gruvbox&show_owner=true" width="420"/>
         </a>
       
-</div>
+</div> -->
 
 
 ### 🌟 Open Source NPM Package: [bp-color-library](https://www.npmjs.com/package/bp-color-library)  
@@ -27,9 +27,9 @@
 </div> 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BhathiyaPrasad&locale=en&hide_title=false&layout=compact&card_width=480&langs_count=12&theme=gruvbox&hide_border=true&order=2&cache_seconds=1800&card_width=320"" height="185" alt="languages graph" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BhathiyaPrasad&locale=en&hide_title=false&layout=compact&card_width=480&langs_count=12&theme=gruvbox&hide_border=true&order=2&cache_seconds=1800&card_width=320"" height="185" alt="languages graph" /> -->
 
-<img  src="https://github-readme-stats-eight-theta.vercel.app/api?username=bhathiyaprasad&theme=gruvbox&show_icons=true&hide_border=true&count_private=true&card_width=200&include_all_commits=true&count_private=true" height="185"  />
+<img  src="https://github-readme-stats-eight-theta.vercel.app/api?username=bhathiyaprasad&theme=gruvbox&show_icons=true&hide_border=true&count_private=true&card_width=600&include_all_commits=true&count_private=true" height="310"  />
 </div>
 
 
