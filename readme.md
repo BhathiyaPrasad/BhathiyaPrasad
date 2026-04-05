@@ -24,14 +24,17 @@
 ![npm](https://img.shields.io/npm/dt/bp-color-library?color=blue&label=Downloads)  
 
 ---
-
 <div align="center">
   <table>
-     <tr>
-      <td width="55%" align="center" valign="middle">
+   <tr>
+      <td width="50%" align="center" valign="middle">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhathiyaprasad&theme=gruvbox&hide_border=true&background=0D1117" width="100%" />
       </td>
     </tr>
+  </table>
+</div>
+<div align="center">
+  <table>
     <tr>
       <td>
              <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=bhathiyaprasad&theme=gruvbox&show_icons=true&hide_border=true&count_private=true&card_width=600&include_all_commits=true&count_private=true" height="230" />
